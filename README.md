@@ -12,7 +12,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shreyapatil.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyapatil.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya07-1824)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+shreya-patil1824
+)
 
 </div>
 
