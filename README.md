@@ -11,10 +11,10 @@
 <a href="https://shreyapatil.xyz">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-shreyapatil.xyz-black?style=for-the-badge" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/shreya-patil1824">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Shreya07-1824">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
