@@ -2,24 +2,37 @@
 
 ### MCA Student @ IMCC · Full-Stack Developer · Java Enthusiast
 
-I like turning ideas into working applications — from simple logic-based programs to full-stack systems.
+I’m an **MCA Semester 1 student at IMCC** and a developer who enjoys turning ideas into practical, responsive applications.
 
-Currently pursuing **MCA (Semester 1) at IMCC**, while strengthening my skills in **Java, React, Spring Boot, JavaScript, SQL, and full-stack development**.
+My journey started with programming fundamentals and gradually expanded into **Java, web development, databases, Python, React, Spring Boot, and full-stack development**.
+
+I learn best by building — understanding the problem, writing the code, facing the bugs, and figuring out *why* something works.
 
 > **Learn it → Build it → Break it → Debug it → Understand it.**
 
 ---
 
-## 🧩 What I Work With
+## 🧩 Tech Stack
 
-| Area            | Technologies                             |
-| --------------- | ---------------------------------------- |
-| **Languages**   | Java · JavaScript · Python · SQL         |
-| **Frontend**    | HTML · CSS · JavaScript · React          |
-| **Backend**     | Spring Boot · Flask                      |
-| **Database**    | MySQL · SQLite                           |
-| **Tools**       | Git · GitHub · VS Code · MySQL Workbench |
-| **APIs & Data** | REST APIs · Axios · JSON Server          |
+**Languages**
+
+`Java` `JavaScript` `Python` `SQL`
+
+**Frontend**
+
+`HTML5` `CSS3` `JavaScript` `React.js`
+
+**Backend**
+
+`Spring Boot` `Flask`
+
+**Database**
+
+`MySQL` `SQLite`
+
+**Tools & APIs**
+
+`Git` `GitHub` `VS Code` `REST APIs` `Axios` `JSON Server`
 
 ---
 
@@ -27,148 +40,210 @@ Currently pursuing **MCA (Semester 1) at IMCC**, while strengthening my skills i
 
 ### 🎯 CodeQuest
 
-**A programming-focused project built around learning and problem solving.**
+A programming-focused project built around **learning, coding practice, and problem solving**.
 
-CodeQuest represents my interest in making programming more practical and engaging while strengthening core programming concepts.
+The project reflects my interest in making programming more practical and engaging while strengthening core programming concepts.
 
-**Focus:** Programming · Logic Building · Problem Solving
+**Focus:** `Programming` · `Logic Building` · `Problem Solving`
 
 ---
 
 ### 📝 Leave Application
 
-**A web-based leave management application.**
+A web-based application designed to manage **leave applications digitally**.
 
-Built to understand how a real application connects the **frontend, backend, APIs, and database** together.
+This project helped me understand how different parts of a real application work together — from the user interface to backend APIs and database operations.
 
-**Focus:** CRUD · REST APIs · Full-Stack Development · Database
+**Focus:** `CRUD` · `REST APIs` · `Database` · `Full-Stack Development`
 
 ---
 
 ### 🌱 CropBuddy
 
-**An AI-powered agriculture assistance application.**
+An **AI-powered agriculture assistance application** created to help with crop leaf disease identification.
 
-CropBuddy was one of my more challenging projects, combining web development with machine learning to create a practical solution for crop disease identification.
+CropBuddy was an important project in my development journey because it brought together **machine learning, backend development, database management, and a practical real-world use case**.
 
 **Highlights**
 
 * 🌿 Crop leaf disease recognition
 * 🤖 TensorFlow / TFLite integration
-* 🔌 Offline prediction capability
+* ⚡ Offline prediction capability
 * 🌐 Flask-based application
 * 🗄️ SQLite database
 * 🌍 Multilingual interface
 
-**Focus:** Python · Flask · TensorFlow · TFLite · SQLite · AI
+**Focus:** `Python` · `Flask` · `TensorFlow` · `TFLite` · `SQLite` · `AI`
 
 ---
 
 ### 🎮 Rock Paper Scissors
 
-**A simple interactive game built to strengthen my JavaScript fundamentals.**
+A simple interactive game created while strengthening my **JavaScript fundamentals**.
 
-It helped me practice programming logic, DOM manipulation, events, conditions, and user interaction.
+It helped me practice programming logic, DOM manipulation, events, conditions, random values, and user interaction.
 
-**Focus:** HTML · CSS · JavaScript · DOM
+**Focus:** `HTML` · `CSS` · `JavaScript` · `DOM`
 
 ---
 
-## 🛠️ Currently Building My Skills
+## 💻 What I Like Building
+
+I enjoy working on projects that combine **good UI with actual functionality**.
 
 ```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Advanced Java
-        ↓
-Spring Boot
-        ↓
+Frontend
+   ↓
+Responsive UI
+   ↓
+JavaScript / React
+   ↓
 REST APIs
-        ↓
-React
-        ↓
-MySQL
-        ↓
-Full-Stack Development
+   ↓
+Backend
+   ↓
+Database
+   ↓
+Complete Application 🚀
 ```
 
-Alongside development, I'm also working on **Data Structures & Algorithms** and improving my problem-solving skills.
+I'm particularly interested in:
+
+* 🌐 Responsive websites & web applications
+* ☕ Java applications
+* ⚛️ React interfaces
+* 🌱 Spring Boot backends
+* 🗄️ Database-driven applications
+* 🔗 REST APIs
+* 🎨 Clean & user-friendly UI
+* 🧩 Problem solving
 
 ---
 
-## 📌 My Development Journey
+## 📚 Currently Learning
+
+As an **MCA Semester 1 student**, I'm currently focusing on becoming stronger in:
+
+* ☕ Advanced Java
+* 🌱 Spring Boot
+* ⚛️ React.js
+* 🧩 Data Structures & Algorithms
+* 🗄️ SQL & Database Management
+* 🔗 REST API development
+* 🏗️ Full-Stack Development
+
+---
+
+## 🛣️ My Journey
 
 ```text
 BCA
-  ↓
+  │
+  ▼
 Programming Fundamentals
-  ↓
+  │
+  ▼
 Java
-  ↓
+  │
+  ├── OOP
+  ├── Collections
+  └── Problem Solving
+  │
+  ▼
 HTML + CSS
-  ↓
+  │
+  ▼
 JavaScript
-  ↓
+  │
+  ▼
 SQL / MySQL
-  ↓
+  │
+  ▼
 Python + Flask
-  ↓
+  │
+  ▼
 React
-  ↓
+  │
+  ▼
 Spring Boot
-  ↓
+  │
+  ▼
 MCA @ IMCC
-  ↓
+  │
+  ▼
 Full-Stack Developer 🚀
 ```
 
 ---
 
-## 💡 What I Enjoy
+## 🎯 2026 Goals
 
-* Building projects from scratch
-* Understanding how things work behind the scenes
-* Solving programming problems
-* Working with Java
-* Creating responsive web interfaces
-* Connecting frontend, backend & databases
-* Debugging things that *"should have worked"* 😄
-
----
-
-## 🌐 Find Me Online
-
-**Portfolio:** [shreyapatil.xyz](https://shreyapatil.xyz)
-
-**GitHub:** You're already here 👀
+* [ ] Become stronger in Advanced Java
+* [ ] Build production-ready Spring Boot applications
+* [ ] Improve React & frontend architecture
+* [ ] Strengthen DSA & problem solving
+* [ ] Build more complete full-stack projects
+* [ ] Contribute to open source
+* [ ] Gain real-world development experience
+* [ ] Keep building things that solve actual problems
 
 ---
 
-## 📊 GitHub Activity
+## 🌐 Let's Connect
+
+I'm always interested in **learning, collaborating, building projects, and connecting with other developers**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyaPatil&show_icons=true&hide_border=true&rank_icon=github" />
+### 💼 Portfolio
 
-<br/>
+<a href="https://shreyapatil.xyz">
+  <img src="https://img.shields.io/badge/Portfolio-shreyapatil.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaPatil&layout=compact&hide_border=true" />
+### 📧 Email
+
+<a href="mailto:sp405957@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sp405957%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+### 💬 WhatsApp
+
+<a href="https://wa.me/">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<!-- Add your actual LinkedIn URL here -->
+
+<!-- Add your actual GitHub URL here -->
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub
 
-* [ ] Strengthen Advanced Java
-* [ ] Build production-ready Spring Boot applications
-* [ ] Become stronger with React
-* [ ] Improve DSA & problem solving
-* [ ] Build more full-stack projects
-* [ ] Contribute to open source
-* [ ] Gain real-world development experience
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 A Little More About Me
+
+I don't believe I need to know everything before starting a project.
+
+I believe in **starting, experimenting, making mistakes, debugging, and understanding the solution**.
+
+Every project I've built has taught me something different — from programming logic and frontend development to databases, APIs, AI, and full-stack architecture.
+
+And I'm still building. 🚀
 
 ---
 
@@ -176,6 +251,6 @@ Full-Stack Developer 🚀
 
 ### `Code. Learn. Build. Repeat.`
 
-**Thanks for visiting my profile! ⭐**
+⭐ **Thanks for visiting my profile!**
 
 </div>
